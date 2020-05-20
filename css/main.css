@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 1170px;
+}
+@font-face{
+   src:url("Lato-Bold.ttf");
+   font-family:"Lato Bold" ;
+}
+@font-face{
+    src:url("Lato-Regular.ttf");
+    font-family:"Lato Regular" ;
+ }
+ @font-face{
+    src:url("Lato-Light.ttf");
+    font-family:"Lato Light" ;
+ }
+ @font-face{
+    src:url("Lato-Italic.ttf");
+    font-family:"Lato Italic" ;
+ }

@@ -1,0 +1,119 @@
+.section-intro{
+    height:470px;
+    padding-top: 120px;
+    background-color: #f7f7f7;
+}
+h2{
+    font-family:"Lato Bold" ;
+    font-size: 18px;
+    color:#5c5d5e
+}
+p{
+    font-family:"Lato Regular" ;
+    font-size: 18px;
+    color:#848789
+}
+.product{
+    display: flex;
+    height:600px
+}
+.product .img-product{
+   background-image: url("../img/img14.jpg");
+    width: 190%;
+    padding-top: 240px;
+}
+.product .intro-product{
+    width: 100%;
+}
+.product .intro-product .intro-product-sub{
+    width:100% ;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 65px;
+    padding-bottom: 95px;
+}
+
+.product .intro-product .img-product-sub{
+    width: 100%;
+}
+
+h3{
+    padding-bottom: 20px;
+    padding-top: 25px;
+    color:#353738;
+    font-family:"Lato Bold" ;
+    font-size: 18px;
+    text-align: center;
+
+}
+.para{
+    text-align: justify;
+    font-family:"Lato Regular" ;
+    font-size: 16px;
+    color:#848789;
+    line-height: 30px;
+}
+.product-02{
+    display: flex;
+    height:600px
+}
+.product-02 .img-product{
+   background-image: url("../img/img3.jpg");
+    width: 190%;
+    padding-top: 240px;
+}
+.product-02 .intro-product{
+    width: 100%;
+}
+.product-02 .intro-product .intro-product-sub{
+    width:100% ;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 65px;
+    padding-bottom: 90px;
+}
+
+.product-02 .intro-product .img-product-sub{
+    width: 100%;
+}
+
+.product-03{
+    display: flex;
+    height:600px;
+    margin-top: 4px;
+}
+/* img product left*/
+.product-03 .img-product-left{
+    background-image: url("../img/img7.jpg");
+    width: 100%;
+    padding-top: 240px;
+}
+
+/* img product center*/
+.product-03 .img-product-center .img-product-sub{
+    width: 100%;
+}
+
+.product-03 .img-product-center .img-product{
+   background-image: url("../img/img3.jpg");
+    width: 190%;
+    padding-top: 240px;
+}
+.product-03 .img-product-center .intro-product{
+    width: 100%;
+}
+.product-03 .img-product-center .intro-product .intro-product-sub{
+    width:100% ;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 65px;
+    padding-bottom: 90px;
+}
+
+.product-03 .img-product-center .intro-product .img-product-sub{
+    width: 100%;
+}
+/*img product right*/
+.product-03 .img-product-right{
+  width: 100%;
+}
