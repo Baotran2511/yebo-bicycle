@@ -17,6 +17,9 @@ footer{
     font-size: 14px;
     color:#a7a9aa;
 }
+.footer-network{
+    padding:40px;
+}
 .footer-network ul{
     display: flex;
     padding-top:110px ;
